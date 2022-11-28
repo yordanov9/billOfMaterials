@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace billOfMaterials
 {
-    public partial class Form2 : Form
+    public partial class home : Form
     {
-        public Form2()
+        public home()
         {
             InitializeComponent();
         }
@@ -30,6 +30,18 @@ namespace billOfMaterials
         private void label2_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            listOfMaterials frm = new listOfMaterials();
+            frm.MdiParent = this;
+            frm.Show();
         }
     }
 }

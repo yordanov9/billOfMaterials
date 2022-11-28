@@ -10,11 +10,12 @@ using System.Windows.Forms;
 
 namespace billOfMaterials
 {
-    public partial class Form1 : Form
+    public partial class logIn : Form
     {
-        public Form1()
+        public logIn()
         {
             InitializeComponent();
+            txtPassword.PasswordChar = '*';
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -26,7 +27,7 @@ namespace billOfMaterials
         {
             if (txtUserName.Text == "username" && txtPassword.Text == "passw")
             {
-                new Form2().Show();
+                new home().Show();
                 this.Hide();
 
             }
