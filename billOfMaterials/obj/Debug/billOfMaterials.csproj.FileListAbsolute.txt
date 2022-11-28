@@ -1,0 +1,12 @@
+C:\Users\Ivan\source\repos\billOfMaterials\billOfMaterials\obj\Debug\billOfMaterials.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\billOfMaterials\billOfMaterials\obj\Debug\billOfMaterials.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\billOfMaterials\billOfMaterials\obj\Debug\billOfMaterials.Form1.resources
+C:\Users\Ivan\source\repos\billOfMaterials\billOfMaterials\obj\Debug\billOfMaterials.Properties.Resources.resources
+C:\Users\Ivan\source\repos\billOfMaterials\billOfMaterials\obj\Debug\billOfMaterials.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\billOfMaterials\billOfMaterials\obj\Debug\billOfMaterials.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\billOfMaterials\billOfMaterials\bin\Debug\billOfMaterials.exe.config
+C:\Users\Ivan\source\repos\billOfMaterials\billOfMaterials\bin\Debug\billOfMaterials.exe
+C:\Users\Ivan\source\repos\billOfMaterials\billOfMaterials\bin\Debug\billOfMaterials.pdb
+C:\Users\Ivan\source\repos\billOfMaterials\billOfMaterials\obj\Debug\billOfMaterials.exe
+C:\Users\Ivan\source\repos\billOfMaterials\billOfMaterials\obj\Debug\billOfMaterials.pdb
+C:\Users\Ivan\source\repos\billOfMaterials\billOfMaterials\obj\Debug\billOfMaterials.Form2.resources
